@@ -24,7 +24,9 @@ records = 3344555
 ```
 
 token = Linode token
+
 domains = id of the domain
+
 records = the record to change
 
 ## Usage
